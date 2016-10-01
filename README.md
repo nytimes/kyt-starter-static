@@ -1,18 +1,19 @@
-# Universal React starter-kyt
+# Static React starter-kyt
 
-This starter-kyt should serve as the base for an advanced, server and client-rendered React app.
+This is a Work In Progress!
+
+This starter-kyt should serve as the base for an advanced client-rendered React app.
 
 
 ## Installation
 
 1. Create a new directory and install [kyt](https://github.com/NYTimes/kyt)
-2. `node_modules/.bin/kyt setup -r git@github.com:NYTimes/kyt-starter-universal.git`
+2. `node_modules/.bin/kyt setup -r git@github.com:delambo/kyt-starter-static.git`
 
 ## Tools
 
 The following are some of the tools included in this starter-kyt:
 
-- [Express](https://expressjs.com/) - Server-side rendering
 - [React](https://facebook.github.io/react/) - Component library
 - [React Router](https://github.com/reactjs/react-router) - Server and client routing
 - [Sass Modules](https://github.com/css-modules/css-modules) - CSS Modules with a Sass pre-processor for styles
