@@ -15,7 +15,8 @@
   },
   "homepage": "https://github.com/nytimes/kyt-starter-static#readme",
   "kyt": {
-    "version": "^0.2.0"
+    "version": "^0.2.0",
+    "files": ["kyt.config.js"]
   },
   "dependencies": {
     "enzyme": "^2.4.1",
