@@ -1,19 +1,19 @@
 {
-  "name": "wf-kyt-starter-universal",
+  "name": "kyt-starter-static",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nytm/wf-kyt-starter-universal.git"
+    "url": "git+https://github.com/nytimes/kyt-starter-static.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nytm/wf-kyt-starter-universal/issues"
+    "url": "https://github.com/nytimes/kyt-starter-static/issues"
   },
-  "homepage": "https://github.com/nytm/wf-kyt-starter-universal#readme",
+  "homepage": "https://github.com/nytimes/kyt-starter-static#readme",
   "kyt": {
     "version": "^0.2.0"
   },
@@ -23,7 +23,9 @@
     "react": "^15.3.0",
     "react-addons-test-utils": "^15.3.0",
     "react-dom": "^15.3.0",
-    "react-router": "^2.6.1",
-    "webpack": "^2.1.0-beta.22"
+    "react-router": "^2.6.1"
+  },
+  "devDependencies": {
+    "kyt": "^0.2.2"
   }
 }
