@@ -27,6 +27,6 @@
     "react-router": "^2.6.1"
   },
   "devDependencies": {
-    "kyt": "^0.2.2"
+    "kyt": "^0.3.0"
   }
 }
