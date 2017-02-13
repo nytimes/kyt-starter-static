@@ -1,4 +1,4 @@
-# Deprecated: This starter-kyt has been moved into the kyt monorepo. [New Location](https://github.com/NYTimes/kyt/tree/master/packages/kyt-starter-universal) 
+# Deprecated: This starter-kyt has been moved into the kyt monorepo. [New Location](https://github.com/NYTimes/kyt/tree/master/packages/kyt-starter-static) 
 
 ## Static React starter-kyt
 
